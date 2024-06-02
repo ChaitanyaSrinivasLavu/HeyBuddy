@@ -1,4 +1,4 @@
-# HeyBuddy Chatbot README
+# HeyBuddy Chatbot
 
 ## Overview
 
